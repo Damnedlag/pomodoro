@@ -1,0 +1,27 @@
+#container {
+    display: flex;
+    flex-direction: column;
+}
+
+span {
+    justify-content: center;
+    padding-bottom: 2em;
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    padding-top: 2em;
+    text-align: center;
+}
+
+button {
+    margin: 0em 1em 0em 1em;
+    width: 8em;
+    text-align: center;
+}
+
+#setup {
+    display: flex;
+    flex-direction: row;
+}
