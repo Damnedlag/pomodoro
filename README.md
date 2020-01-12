@@ -1,3 +1,6 @@
 Pomodoro clock made with pure Javascript.
 
-Could use some styling later on.
+To do list:
+
+* Could use styling.
+* Add sound effect for when the timer turns.
